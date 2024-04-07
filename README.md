@@ -1,11 +1,12 @@
 # Web Scraping with ShipInfo data
 
 The **Web-Scraping-ShipInfo** module consists of a python-based Jupyter-notebook 
-designed to demonstrate the use of web scraping techniques to get Ship Details, such as Name, IMO, MMSI or Type, from the ShipInfo Website to be able to cross check another source of information. 
-
+designed to demonstrate the use of web scraping techniques to get Ship Details, such as Name, IMO, MMSI or Type, from the [ShipInfo Website](https://shipinfo.net) to be able to cross check another source of information. For instance, it could be used to merge the fleet of any Shipping company and see more details regarding a specific ship. The case here has implemented a fleet of a Norwegian company to extract IMO number and MMSI from the ShipInfo dataset.
 
 
 The idea behind this code is to obtain as much information as possible while one is working with AIS data, data which usually some values are missed and it should be a nice procedure to compare with other sources of information.  
+
+Before running the code, recommended to check the ShipInfo website and its html to be familiarize with the web scraping process. Run each cell one by one to get results. Additionally, the user can increase the quantity of pages it is desired, but the longer it is, the more time it will take the code to finish. 
 
 For any questions about this repository, please contact me via juan.fernandez.sea@gmail.com
 
@@ -22,6 +23,11 @@ the latest [Anaconda Python distribution](https://www.anaconda.com/) for your
 operating system. Anaconda Python distributions include Jupyter Notebook.
 
 
+This collection supports Python 3.10. Although many options are possible, the 
+authors highly recommend that users install the appropriate Anaconda package 
+for their operating system. In order to ensure that you have all the required 
+dependencies, we recommend that you build a suitable Python environment, as 
+discussed below.
 
 
 ## Dependencies
@@ -35,12 +41,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 
 
 
-## Usage
 
-This collection supports Python 3.10. Although many options are possible, the 
-authors highly recommend that users install the appropriate Anaconda package 
-for their operating system. In order to ensure that you have all the required 
-dependencies, we recommend that you build a suitable Python environment, as 
-discussed below.
+
 
 
