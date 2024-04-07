@@ -1,4 +1,4 @@
-# Web-Scraping-ShipInfo
+# Web Scraping with ShipInfo data
 
 The **Web-Scraping-ShipInfo** module consists of a python-based Jupyter-notebook 
 designed to demonstrate the use of web scraping techniques to get Ship Details, such as Name, IMO, MMSI or Type, from the ShipInfo Website to be able to cross check another source of information. 
