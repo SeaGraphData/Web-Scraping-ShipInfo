@@ -37,7 +37,8 @@ discussed below.
 |python|3.10.13|PSF|https://docs.python.org/3/license.html|
 |matplotlib|3.8.3|PSFL|https://matplotlib.org/stable/users/project/license.html|
 |beautifulsoup4|4.12.3|MIT|https://pypi.org/project/beautifulsoup4/|
-
+|pandas|2.2.1|BSD-3|https://pandas.pydata.org|
+|numpy|1.3.0|BSD-3|https://numpy.org/doc/stable/index.html|
 
 
 
