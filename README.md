@@ -20,10 +20,8 @@ For any questions about this repository, please contact me via juan.fernandez.se
 |item|version|licence|package info|
 |---|---|---|---|
 |python|3.10.13|PSF|https://docs.python.org/3/license.html|
-|jupyterlab|4.1.2|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
-|ipywidgets|8.1.2|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
-|dask|2024.2.1|BSD-3|https://anaconda.org/conda-forge/dask|
-|xarray|2024.2.0|Apache-2.0|https://anaconda.org/conda-forge/xarray|
-|netcdf4|1.6.5|MIT|https://anaconda.org/conda-forge/netcdf4|
-|scipy|1.12.0|BSD-3|https://anaconda.org/conda-forge/scipy|
 |matplotlib|3.8.3|PSFL|https://matplotlib.org/stable/users/project/license.html|
+|beautifulsoup4|4.12.3|MIT|https://pypi.org/project/beautifulsoup4/|
+
+
+
